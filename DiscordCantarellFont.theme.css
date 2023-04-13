@@ -8,7 +8,7 @@
 
 :root {
     --font-primary: "Cantarell", "gg sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
-    --font-display: "Whitney", "gg sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+    --font-display: "Cantarell", "gg sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
 }
 
 @font-face {
