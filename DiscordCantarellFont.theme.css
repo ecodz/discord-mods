@@ -3,7 +3,7 @@
 * @author E-Codz#4029
 * @description GNOME's Cantarell font for Discord 
 * @version 1.0
-* @source https://github.com/ecodz/
+* @source https://github.com/ecodz/discord-mods
 */
 
 :root {
@@ -16,7 +16,7 @@
     font-style: normal;
     font-weight: 125 950;
     font-stretch: 75% 125%;
-    src: url("https://cdn.jsdelivr.net/gh/GNOME/cantarell-fonts@0.10.1/otf/Cantarell-Regular.otf") format("otf");
+    src: url("https://cdn.jsdelivr.net/gh/GNOME/cantarell-fonts@latest/otf/Cantarell-Regular.otf") format("otf");
 }
 
 
